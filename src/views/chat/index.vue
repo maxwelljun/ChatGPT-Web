@@ -444,7 +444,7 @@ onUnmounted(() => {
             <div class="flex items-center flex-col justify-center mt-4 text-center ">
               <SvgIcon icon="ri:bubble-chart-fill" class="mr-2 text-3xl" />
               <div>AI小思永久域名： https://chat.lovesi.tech  或者chat1,chat2,一直到9</div>
-              <div>如果无法访问，加入AI小思微信交流群沟通！</div>
+              <div>如果无法访问，请加入AI小思微信交流群沟通！</div>
               <div>
                 <img src="https://image-killer.oss-cn-beijing.aliyuncs.com/kkkl.jpg" width="200" height="100" alt="kele">
               </div>
